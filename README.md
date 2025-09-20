@@ -66,7 +66,7 @@
 
 ### 💳 Payment Integration
 <p align="center">
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Razorpay-0C4BFA?style=for-the-badge&logo=razorpay&logoColor=white" />
 </p>
 
